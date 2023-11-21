@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "token": "Bot_Token",
+    "allowedClearUserId": "User_ID_For_!clear"
+  }
+  

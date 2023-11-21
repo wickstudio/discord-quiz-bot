@@ -1,0 +1,21 @@
+{
+    "name": "discord-quiz-bot",
+    "version": "1.0.0",
+    "description": "Discord bot for a quiz game",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "quiz"
+    ],
+    "author": "Wick",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^13.3.1",
+        "sequelize": "^6.34.0",
+        "sqlite3": "^5.1.6"
+    }
+}
